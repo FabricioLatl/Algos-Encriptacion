@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1553963031 source:d:\c++\tercer semestre\rain sebas\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1554523330 source:c:\users\sebastian\documents\algebra abstracta\rain sebas\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Zigzag.h>
+
+1554523224 source:c:\users\sebastian\documents\algebra abstracta\rain sebas\src\zigzag.cpp
+	"Zigzag.h"
+
+1554523061 c:\users\sebastian\documents\algebra abstracta\rain sebas\include\zigzag.h
+	"string"
+
+1554523330 source:c:\users\sebastian\documents\algebra abstracta\zigzag final\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Zigzag.h>
+
+1554523061 c:\users\sebastian\documents\algebra abstracta\zigzag final\include\zigzag.h
+	"string"
+

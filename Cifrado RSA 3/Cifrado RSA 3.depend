@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1556990359 source:c:\users\sebastian\documents\algebra abstracta\cifrado rsa 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<NTL/ZZ.h>
+	<RSA.h>
+	"string"
+
+1556989364 c:\users\sebastian\documents\algebra abstracta\cifrado rsa 3\include\rsa.h
+	<NTL/ZZ.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<vector>
+
+1556989166 source:c:\users\sebastian\documents\algebra abstracta\cifrado rsa 3\src\rsa.cpp
+	"RSA.h"
+
+1557792752 source:c:\users\asus i5\documents\algebra abstracta\cifrado rsa 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<NTL/ZZ.h>
+	<RSA.h>
+	"string"
+
+1556989366 c:\users\asus i5\documents\algebra abstracta\cifrado rsa 3\include\rsa.h
+	<NTL/ZZ.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<vector>
+
+1557789037 source:c:\users\asus i5\documents\algebra abstracta\cifrado rsa 3\src\rsa.cpp
+	"RSA.h"
+

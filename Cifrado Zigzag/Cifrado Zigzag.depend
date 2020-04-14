@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553955994 source:c:\users\sebastian\documents\algebra abstracta\cifrado zigzag\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

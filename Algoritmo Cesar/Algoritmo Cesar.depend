@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554569808 source:c:\users\sebastian\documents\algebra abstracta\algoritmo cesar\main.cpp
+	<iostream>
+	<Cesar.h>
+	<string>
+	<cmath>
+	<vector>
+
+1554569795 c:\users\sebastian\documents\algebra abstracta\algoritmo cesar\include\cesar.h
+	<iostream>
+	<string>
+	<cmath>
+
+1554569795 source:c:\users\sebastian\documents\algebra abstracta\algoritmo cesar\src\cesar.cpp
+	"Cesar.h"
+
+1554569810 source:c:\users\asus i5\documents\algebra abstracta\algoritmo cesar\main.cpp
+	<iostream>
+	<Cesar.h>
+	<string>
+	<cmath>
+	<vector>
+
+1554569796 c:\users\asus i5\documents\algebra abstracta\algoritmo cesar\include\cesar.h
+	<iostream>
+	<string>
+	<cmath>
+
+1554569796 source:c:\users\asus i5\documents\algebra abstracta\algoritmo cesar\src\cesar.cpp
+	"Cesar.h"
+

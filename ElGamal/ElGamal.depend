@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1561772009 source:c:\users\asus i5\documents\algebra abstracta\elgamal\main.cpp
+	<iostream>
+	<ctime>
+	<map>
+	<math.h>
+	<chrono>
+	<sstream>
+	<string>
+	<vector>
+	<fstream>
+	<sys/time.h>
+	<stdint.h>
+	<NTL/ZZ.h>
+
+1561771466 c:\users\asus i5\documents\algebra abstracta\elgamal\include\funciones.h
+	<NTL/ZZ.h>
+
+1561771635 c:\users\asus i5\documents\algebra abstracta\elgamal\include\xorshift.h
+
+1561771649 c:\users\asus i5\documents\algebra abstracta\elgamal\include\miller_rabin.h
+	<NTL/ZZ.h>
+
+1561771599 c:\users\asus i5\documents\algebra abstracta\elgamal\include\bbs.h
+	<NTL/ZZ.h>
+
+1561771628 c:\users\asus i5\documents\algebra abstracta\elgamal\include\gordon.h
+	<NTL/ZZ.h>
+
+1561771659 c:\users\asus i5\documents\algebra abstracta\elgamal\include\pollar.h
+	<NTL/ZZ.h>
+
+1561771617 c:\users\asus i5\documents\algebra abstracta\elgamal\include\gamal.h
+	<NTL/ZZ.h>
+
+1561771714 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\gbbs.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<map>
+	<math.h>
+	<chrono>
+	<sstream>
+	<string>
+	<vector>
+	<fstream>
+	<sys/time.h>
+	<stdint.h>
+	<NTL/ZZ.h>
+	"funciones.h"
+	"xorshift.h"
+	"miller_rabin.h"
+
+1561771603 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\bbs.cpp
+	"bbs.h"
+
+1561771607 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\funciones.cpp
+	"funciones.h"
+
+1561771621 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\gamal.cpp
+	"gamal.h"
+
+1561771639 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\xorshift.cpp
+	"xorshift.h"
+
+1561771643 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\gordon.cpp
+	"gordon.h"
+
+1561771653 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\miller_rabin.cpp
+	"miller_rabin.h"
+
+1561771662 source:c:\users\asus i5\documents\algebra abstracta\elgamal\src\pollar.cpp
+	"pollar.h"
+
